@@ -42,8 +42,5 @@ sudo apt-get update
     sudo groupadd docker
     sudo usermod -aG docker $USER
 
-#docker to service
-apt-cache policy docker-ce
-
 
 echo "All installation have been completted"
