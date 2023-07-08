@@ -1,2 +1,3 @@
 Changelog on Liferay's Homework:
-- 07/08/2023: Ubuntu Jammy (22.04) have been installed in a Hyper-V Enviroment
+- 07/08/2023: Ubuntu Jammy (22.04) have been installed in Virtual Box
+- 07/08/2023: Docker.sh added to repository that installs prequisites,docker.io,docker-compose with error handling ( Validate Envioment)
